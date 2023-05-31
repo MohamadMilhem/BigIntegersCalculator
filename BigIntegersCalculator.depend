@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1684506018 source:c:\users\moham\onedrive\desktop\computer engineering\comp2421 (data structures and algorithms)\project 1\project1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1684506869 source:c:\users\moham\onedrive\desktop\computer engineering\comp2421 (data structures and algorithms)\project 1\bigintegerscalculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
