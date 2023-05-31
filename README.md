@@ -1,6 +1,6 @@
 # BigIntegersCalculator
-Program that can preform basic operations +,-,* and / on Big integers.
+A program that can perform basic operations +,-,*, and / on Big integers.
 
-Project of Data structrue course in Birzeit university.
+Project of Data Structure course at Birzeit University.
 
-Using linkedLists to represents the big integers.
+Using linked lists to represent the big integers.
